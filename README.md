@@ -1,2 +1,2 @@
 # leaflet-challenge
-https://rlkenny.github.io/leaflet-challenge/
+https://rlkennye.github.io/leaflet-challenge/
